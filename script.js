@@ -1,4 +1,4 @@
-const countdownDate=new Date("July 11, 2023 00:00:00").getTime()
+const countdownDate=new Date("August 9, 2023 00:00:00").getTime()
 const day=document.getElementById("days")
 const hour=document.getElementById("hours")
 const minute=document.getElementById("minutes")
